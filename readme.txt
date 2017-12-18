@@ -1,6 +1,6 @@
 Git is a version control system.
 Git is a free software
-I am learning Git
+I am learning Git and i feel happy.
 Creating new branch is quick
 I don't know how to talk with you and i am a bad person
 today is sunday,at this mornning that i have learned bootstrap,i have know something about navbar,it's great!
