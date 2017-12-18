@@ -7,3 +7,4 @@ today is sunday,at this mornning that i have learned bootstrap,i have know somet
 Now,I am to learn collapse
 2017/12/18 Today is a new day,but i not very happy,because i had watched a video about a friend at this mornning,and i want to talk with her,maybe i am dream.hardworking today!
 Creating a new branch is quick and simple.
+fast forward
