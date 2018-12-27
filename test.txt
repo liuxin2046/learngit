@@ -4,4 +4,5 @@ test1 add a row
 test pull
 test5
 function () {}
+test5 import {routeActivities} from '@/lib/util' 
 hey jude
